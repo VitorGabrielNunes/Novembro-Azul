@@ -1,0 +1,25 @@
+h1 {text-align: center;
+	color: blue;  
+}
+
+.itens {
+	font-size: 25px;
+}
+
+.novembroazul.jpeg{width: 100%;
+}
+
+.sintomas.jpeg {
+	width: 30%;
+}
+
+.Texto01 { background-color : # FFCCCC;
+}
+p{text-align: justify;
+}
+
+@media screen and (max-width: 480px) {
+.caixa {
+width: auto;
+}
+}
