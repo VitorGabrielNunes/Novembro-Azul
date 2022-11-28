@@ -18,9 +18,3 @@ p{text-align: justify;
 
 .Texto01 { background-color : # FFCCCC;
 }
-
-@media screen and (max-width: 480px) {
-.caixa {
-width: auto;
-}
-}
