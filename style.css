@@ -24,9 +24,3 @@ ul {
 }
 p{text-align: justify;
 }
-
-@media screen and (max-width: 480px) {
-.caixa {
-width: auto;
-}
-}
