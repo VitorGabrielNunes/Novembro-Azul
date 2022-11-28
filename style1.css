@@ -17,9 +17,3 @@ h1 {text-align: center;
 }
 p{text-align: justify;
 }
-
-@media screen and (max-width: 480px) {
-.caixa {
-width: auto;
-}
-}
